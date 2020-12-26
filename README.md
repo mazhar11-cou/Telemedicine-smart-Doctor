@@ -1,6 +1,6 @@
 # Team Name : Dark Lite
 ## Team Members: 
-![Profile photo](https://user-images.githubusercontent.com/57343793/103149312-852c4380-4792-11eb-95c2-a668e8318c22.jpg){:height="700px" width="400px"}
+![Profile photo](https://user-images.githubusercontent.com/57343793/103149312-852c4380-4792-11eb-95c2-a668e8318c22.jpg = 250 x 250)
 Mazharul Hasan 
 Email: mazhar11808006@gmail.com
 phone: +8801631981121

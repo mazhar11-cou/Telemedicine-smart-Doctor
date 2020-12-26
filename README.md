@@ -1,3 +1,10 @@
+# Team Name : Dark Lite
+## Team Members: 
+![Profile photo](https://user-images.githubusercontent.com/57343793/103149312-852c4380-4792-11eb-95c2-a668e8318c22.jpg)
+Mazharul Hasan 
+Email: mazhar11808006@gmail.com
+phone: +8801631981121
+
 # Telemedicine-smart-Doctor
 
 # It is the best way to treat the diseases before they attack
@@ -25,3 +32,7 @@ By AWS IoT, it can control Web Cam and communication with the receiver. Data sto
 
 5. The patient will get the diagnosis immediately and if the patient has serious condition it will pass the ofline doctor by Amazon Alex.  
 
+
+## Conclusion
+
+The running cost of Dr. Cloud is very low cost and highly scalable (100% serverless). All conversations, data and diagnostic result are stored in Amazon RDS. In serious condition targets to remind and refer patients to the real doctor. The real doctor diagnostic results can help the system learns and improves the diagnostic accuracy with AWS Machine Learning. It will save money time and strenth of a people. At last we say, Telemadicine Smart Doctor make the world more safe. 

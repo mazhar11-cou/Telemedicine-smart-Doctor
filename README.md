@@ -7,7 +7,8 @@ phone: +8801631981121
 
 ## Project Title: Telemedicine-smart-Doctor
 
-## Project Short Description: Telemedicne Smart Doctor Diagonose a patient by Machine Learning services by AWS. It take Data from differnt madical organization and Store madical information. In serious condition targets to remind and refer patients to the real doctor. The real doctor diagnostic results can help the system learns and improves the diagnostic accuracy with AWS Machine Learning. It will save money time and strenth of a people. At last we say, Telemadicine Smart Doctor make the world more safe. 
+## Project Short Description: 
+Telemedicne Smart Doctor Diagonose a patient by Machine Learning services by AWS. It take Data from differnt madical organization and Store madical information. In serious condition targets to remind and refer patients to the real doctor. The real doctor diagnostic results can help the system learns and improves the diagnostic accuracy with AWS Machine Learning. It will save money time and strenth of a people. At last we say, Telemadicine Smart Doctor make the world more safe. 
 
 # Project Details:
 

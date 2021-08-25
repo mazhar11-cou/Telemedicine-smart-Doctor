@@ -1,6 +1,7 @@
 # Team Name : Dark Lite
 ## Team Members: 
-![Profile photo](https://user-images.githubusercontent.com/57343793/103149312-852c4380-4792-11eb-95c2-a668e8318c22.jpg = 250 x 250)
+
+<img src="https://user-images.githubusercontent.com/57343793/103149312-852c4380-4792-11eb-95c2-a668e8318c22.jpg" alt="Girl in a jacket" width="250" height="250">
 
 Name: Mazharul Hasan 
 

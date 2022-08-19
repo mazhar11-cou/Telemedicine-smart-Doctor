@@ -17,7 +17,7 @@ Telemedicine Smart Doctor Diagnose a patient by Machine Learning services by AWS
 # Project Details:
 
 Whole information contain in this youtube link. 
-https://www.youtube.com/watch?v=vVTfH-tuKR8
+https://youtu.be/P6DePARkTgc
 
 
 ## It is the best way to treat the diseases before they attack
